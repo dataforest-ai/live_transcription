@@ -79,3 +79,8 @@ docker run -it -p 9090:9090 ghcr.io/collabora/whisperlive-cpu:latest
 ```bash
 docker run -it --gpus all -p 9090:9090 ghcr.io/collabora/whisperlive-gpu:latest
 ```
+
+## Browser extensions
+In case of setting up the tool as a browser extension, please refer to the respective documentation:
+- [Chrome extension documentation](https://github.com/dataforest-ai/live_transcription/blob/main/Audio-Transcription-Chrome/README.md)
+- [Mozilla Firefox extension documentation](https://github.com/dataforest-ai/live_transcription/blob/main/Audio-Transcription-Firefox/README.md)
